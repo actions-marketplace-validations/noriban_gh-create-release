@@ -1,4 +1,4 @@
-name: 'Release'
+name: 'create-rls'
 description: 'Create a release for a tag in your repository'
 author: 'Github'
 inputs:
